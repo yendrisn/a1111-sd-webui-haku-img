@@ -1,4 +1,5 @@
-# a1111-sd-webui-haku-img
+添加了些代碼以支援forge
+# a1111-sd-webui-haku-img-forge
 An Image utils extension for A1111's sd-webui
 
 Features:
