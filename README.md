@@ -1,5 +1,7 @@
 以現在時間2005年7月的網路上最新版本HakuImg(ac80e1e)為基礎，
+
 添加了些代碼以支援sd-webui-forge(dfdcbab)，
+
 代碼來源自https://github.com/yoshida-imari/a1111-sd-webui-haku-img-forge
 
 # a1111-sd-webui-haku-img-forge
