@@ -1,4 +1,5 @@
-添加了些代碼以支援forge
+以現在時間2005年7月的網路上最新版本為基礎添加了些代碼以支援forge
+
 # a1111-sd-webui-haku-img-forge
 An Image utils extension for A1111's sd-webui
 
