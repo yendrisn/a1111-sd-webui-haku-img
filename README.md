@@ -4,6 +4,7 @@
 
 代碼來源自https://github.com/yoshida-imari/a1111-sd-webui-haku-img-forge
 
+------------------------------------------------------------------------
 # a1111-sd-webui-haku-img-forge
 An Image utils extension for A1111's sd-webui
 
